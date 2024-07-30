@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 1em;
+  padding: 0.5em;
+  width: 300px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  padding: 0.5em;
+  border-bottom: 1px solid #ccc;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
